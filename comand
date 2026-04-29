@@ -1,0 +1,3 @@
+
+npm install cypress http-server --save-dev
+npx http-server -p 5500
